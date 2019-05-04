@@ -2,6 +2,6 @@
 
 # Technologies:
   - java
-  - jersey, jackson, swagger
+  - jersey, jackson, swagger, 
 
 # New Features!
